@@ -1,8 +1,4 @@
 package org.tt;
-
-
-import com.google.gson.Gson;
-import org.tt.entity.TaskTracker;
 import org.tt.service.TaskManager;
 
 import java.util.Scanner;
